@@ -1,0 +1,20 @@
+<html><body><table width="100%" cellpadding="0" cellspacing="0"><tr valign="middle">
+						<td width="5%" align="center" class="table_line1_left"></td>
+						<td width="10%" class="table_line1_left paddleft">&nbsp;LOT CODE</td>
+						<td width="10%" class="table_line1_left paddleft">&nbsp;IMAGE</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;USER</td>
+						<td width="10%" class="table_line1_left_right paddleft">&nbsp;DATE</td>
+					</tr>
+					<tr valign="middle"><td class="bar" colspan="5"></td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">3</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"><img src="modules/inventory/lotImages/20190513165949.jpg"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left_right" valign="top" align="left" >&nbsp;2019-05-13 16:59:49</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">2</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"><img src="modules/inventory/lotImages/20190513165947.jpg"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left_right" valign="top" align="left" >&nbsp;2019-05-13 16:59:47</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">1</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"><img src="modules/inventory/lotImages/20190513165945.jpg"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left_right" valign="top" align="left" >&nbsp;2019-05-13 16:59:45</td></tr></table></body></html>

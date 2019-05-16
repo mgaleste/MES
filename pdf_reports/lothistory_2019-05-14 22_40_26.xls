@@ -1,0 +1,175 @@
+<html><body><table width="100%" cellpadding="0" cellspacing="0"><tr valign="middle">
+						<td width="5%" align="center" class="table_line1_left"></td>
+						<td width="10%" class="table_line1_left paddleft">&nbsp;LOT CODE</td>
+						<td width="10%" class="table_line1_left paddleft">&nbsp;ITEM</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;PROCESS</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;MACHINE</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;QUANTITY</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;ACTION</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;USER</td>
+                                                <td width="10%" class="table_line1_left paddleft">&nbsp;DATE</td>
+						<td width="10%" class="table_line1_left_right paddleft">&nbsp;STATUS</td>
+					</tr>
+					<tr valign="middle"><td class="bar" colspan="10"></td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">18</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-7-20190513-165922</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">MPOL|Manual Polish</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 17:00:10</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#00FF00">&nbsp;Completed</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">17</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-7-20190513-165922</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">INSP|Inspection</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 17:00:04</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">16</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-7-20190513-165922</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">CUT01|Cutter Machine01</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:59:30</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">15</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-7-20190513-165922</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Start Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:59:25</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">14</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-7-20190513-165922</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Create Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:59:22</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#0000FF">&nbsp;New</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">13</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">MAPOL|Machine Polish</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">100</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:59:08</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#00FF00">&nbsp;Completed</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">12</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">CUT01|Cutter Machine01</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">100</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:59:02</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">11</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Start Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:58:10</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">10</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-6-20190513-165802</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Create Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:58:02</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#0000FF">&nbsp;New</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">9</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-5-20190509-013636</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">MPOL|Manual Polish</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:18:58</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#00FF00">&nbsp;Completed</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">8</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-5-20190509-013636</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">INSP|Inspection</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-13 16:18:51</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">7</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-5-20190509-013636</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">CUT01|Cutter Machine01</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:36:46</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">6</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-5-20190509-013636</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Start Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:36:40</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">5</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND-5-20190509-013636</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">SFG-STAND|Table Stand</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Create Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:36:36</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#0000FF">&nbsp;New</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">4</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-4-20190509-012039</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">MAPOL|Machine Polish</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:21:10</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#00FF00">&nbsp;Completed</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">3</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-4-20190509-012039</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">CUT01|Cutter Machine01</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Move Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:20:47</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#FFFFFF">	<td align="center" class="table_line2_left">2</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-4-20190509-012039</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">CUT|Cutting</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Start Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:20:42</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#EFDC09">&nbsp;In Process</td></tr><tr bgcolor="#EFEFEF">	<td align="center" class="table_line2_left">1</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE-4-20190509-012039</td>
+									<td class="paddleft table_line2_left " valign="top" align="left">FG-TILE|Marble Tile</td>
+									<td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left"></td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">1</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">Create Lot</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">superadmin</td>
+                                                                        <td class="paddleft table_line2_left " valign="top" align="left">2019-05-09 01:20:39</td>
+									<td class="paddleft table_line2_left_right" valign="top" align="left" style="color:#0000FF">&nbsp;New</td></tr></table></body></html>
